@@ -6,13 +6,16 @@ body {
 }
 
 .text-muted {
+    font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #777
 }
 
 .text-primary {
     color: #df2341
 }
-
+.text-secondary {
+    color: #ffffff
+}
 p {
     font-size: 14px;
     line-height: 1.75
@@ -216,7 +219,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header {
-    background-image: url(../img/boston-day-2.jpg);
+    background-image: url(../img/fRYYDpF.jpg);
     background-repeat: none;
     background-attachment: scroll;
     background-position: center center;
@@ -234,8 +237,8 @@ header .intro-text {
 }
 
 header .intro-text .intro-lead-in {
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-style: italic;
+    font-family: "Noto Sans","Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: oblique;
     font-size: 22px;
     line-height: 22px;
     margin-bottom: 25px
@@ -257,9 +260,9 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-lead-in {
-        font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: "Noto Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
         font-style: italic;
-        font-size: 40px;
+        font-size: 50px;
         line-height: 40px;
         margin-bottom: 25px
     }
@@ -286,10 +289,11 @@ section h2.section-heading {
 
 section h3.section-subheading {
     font-size: 16px;
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Noto Serif", "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: none;
-    font-style: italic;
+    font-style: bold;
     font-weight: 400;
+    margin-top: 30px;
     margin-bottom: 75px
 }
 
@@ -361,11 +365,13 @@ section h3.section-subheading {
 
 #portfolio .portfolio-item .portfolio-caption h4 {
     text-transform: none;
+     font-family: "Noto Sans", "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
     margin: 0
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Noto Serif", "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic;
     font-size: 16px;
     margin: 0
@@ -605,7 +611,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/map-image.png);
+    background-image: url(../img/fRYYDpF.jpg);
     background-position: center;
     background-repeat: no-repeat
 }
