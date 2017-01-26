@@ -219,7 +219,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header {
-    background-image: url(../img/fRYYDpF.jpg);
+    background-image: url(../img/IMG_0300_1.jpg);
     background-repeat: none;
     background-attachment: scroll;
     background-position: center center;
@@ -611,8 +611,8 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/fRYYDpF.jpg);
-    background-position: center;
+    background-image: url(../img/geneva.png);
+    background-position:  65% 45%;
     background-repeat: no-repeat
 }
 
