@@ -39,11 +39,6 @@
   </url>
   
   <url>
-    <loc>https://www.willchen.dev/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.willchen.dev/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
@@ -55,6 +50,11 @@
   
   <url>
     <loc>https://www.willchen.dev/tags/themes/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
