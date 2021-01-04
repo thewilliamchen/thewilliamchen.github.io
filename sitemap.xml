@@ -3,15 +3,134 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.willchen.dev/categories/</loc>
+    <loc>https://www.willchen.dev/project/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/project/project2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/project/project3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/project/project4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/tags/go/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/tags/golang/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/tags/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.willchen.dev/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/post/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.willchen.dev/tags/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/tags/themes/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/post/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/tags/template/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/tags/jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/post/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/tags/static-site-generator/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/tags/bootstrap/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/tags/css/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/tags/highlight-js/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/tags/html/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/tags/js/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/tags/responsive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.willchen.dev/tags/syntax-highlighting/</loc>
   </url>
   
 </urlset>
